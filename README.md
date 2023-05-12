@@ -6,7 +6,7 @@ Sophomore at IIITDMJ pursuing B.Tech in CSE
 
 - 🔭 I’m currently working on: Competitive Programming and Full Stack Web Development
 - 🌱 I’m currently learning: CP, DSA, React
-- 🥅 2022 Goals: Game Development
+- 🥅 2023 Goals: Game Development
 - 📫 Reach me: 21bcs040@iiitdmj.ac.in 
 
 
