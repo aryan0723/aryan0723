@@ -1,6 +1,6 @@
 ### Hello there, I'm Aryan Shrivastava👋 
 
-Sophomore at IIITDMJ pursuing B.Tech in CSE
+Pre Final Year at IIITDMJ pursuing B.Tech in CSE
 
 
 
